@@ -267,45 +267,45 @@ const teamMembers = [
 
   
 ];
-
 export default function Team() {
   return (
-    <div className='container '>
-    <div className="container  mx-auto px-0 py-0 bg-gray-100">
-      <h1 className="py-28 px-12 bg-[#ef7c00] text-4xl md:text-6xl font-bold text-center mb-10 text-white">Meet the team at Penny Appeal Canada</h1>
+    <div className="w-full min-h-screen bg-gray-100">
+      <h1 className="py-28 px-4 sm:px-8 md:px-12 bg-[#ef7c00] text-4xl md:text-6xl font-bold text-center mb-10 text-white">
+        Meet the team at Penny Appeal Canada
+      </h1>
       {teamMembers.map((group) => (
-        <div key={group.category} className='flex flex-col py-10 px-1 md:px-16'> 
-    <div className="mb-12 ">
-          <h2 className="text-3xl md:text-5xl font-semibold mb-6 text-center text-gray-700">{group.category}</h2>
-          <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 justify-center">
-            {group.members.map((member) => (
-              <div key={member.name} className="text-center bg-white shadow-lg rounded-lg border border-gray-200 overflow-hidden">
-                <div className="w-full h-80 md:h-96 relative">
-                  <Image
-                    src={member.image}
-                    alt={member.name}
-                    layout="fill"
-                    objectFit="cover"
-                    className="w-full h-full"
-                  />
+        <div key={group.category} className="flex flex-col py-10 px-4 sm:px-8 md:px-16">
+          <div className="mb-12">
+            <h2 className="text-3xl md:text-5xl font-semibold mb-6 text-center text-gray-700">
+              {group.category}
+            </h2>
+            <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+              {group.members.map((member) => (
+                <div key={member.name} className="text-center bg-white shadow-lg rounded-lg border border-gray-200 overflow-hidden">
+                  <div className="w-full h-80 md:h-96 relative">
+                    <Image
+                      src={member.image}
+                      alt={member.name}
+                      layout="fill"
+                      objectFit="cover"
+                      className="w-full h-full"
+                    />
+                  </div>
+                  <div className="p-4">
+                    <h3 className="text-xl font-semibold text-gray-800">{member.name}</h3>
+                    <p className="text-gray-600 font-medium">{member.position}</p>
+                    {'email' in member && member.email && (
+                      <p className="text-orange-500 mt-2 font-semibold">
+                        <a href={`mailto:${member.email}`} className="hover:underline">{member.email}</a>
+                      </p>
+                    )}
+                  </div>
                 </div>
-                <div className="p-4">
-                  <h3 className="text-xl font-semibold text-gray-800">{member.name}</h3>
-                  <p className="text-gray-600 font-medium">{member.position}</p>
-                  { 'email' in member && member.email && (
-  <p className="text-orange-500 mt-2 font-semibold">
-    <a href={`mailto:${member.email}`} className="hover:underline">{member.email}</a>
-  </p>
-)}
-                  
-                </div>
-              </div>
-            ))}
+              ))}
+            </div>
           </div>
         </div>
-        </div>
       ))}
-    </div>
     </div>
   );
 }
