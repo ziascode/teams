@@ -188,13 +188,13 @@ const teamMembers = [
       {
         name: 'Thilakshana Senthilvel',
         position: 'Executive Manager - CEO Office',
-        image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Thilakshana-Senthilvel-Executive-Manager-CEO-Officenewnew.jpg',
+        image: 'https://pennyappeal.ca/wp-content/uploads/2022/01/thilakshana.png',
         quote: 'Kindness is contagious',
       },
       {
         name: 'Rayan Hilal',
         position: 'Office Administrator',
-        image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Rayan-Hilal-Office-Administratornewnew.jpg',
+        image: 'https://pennyappeal.ca/wp-content/uploads/2024/05/rayan-hilal.png',
         quote: 'Let\'s do this!',
       },
       {
