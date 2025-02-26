@@ -61,7 +61,7 @@ const teamMembers = [
         name: 'Owais Hikmat',
         position: 'Director of Development',
         email: 'owais.hikmat@pennyappeal.ca',
-        image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Owais-Hikmat-Director-of-Developmentnewnewnew.jpg',
+        image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/owais.jpg',
         quote: 'Outside of your comfort zone is where magic happens.',
       },
       
@@ -133,23 +133,6 @@ const teamMembers = [
         position: 'Graphic Designer',
         image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Mariam-Hoda-Graphic-Designernewnew.jpg',
         quote: 'It\'s all good',
-      },
-    ],
-  },
-  {
-    category: 'Events',
-    members: [
-      {
-        name: 'Sarika Verma',
-        position: 'Events Manager',
-        image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Sarika-Verma-Events-Managernewnew.jpg',
-        quote: 'Don\'t trade integrity for approval; authenticity is the new cool!',
-      },
-      {
-        name: 'Muhammad Mauthoor',
-        position: 'Event Coordinator',
-        image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Muhammad-Mauthoor-Event-Coordinatornewnew.jpg',
-        quote: 'Nobody gets left behind!',
       },
     ],
   },
@@ -261,6 +244,12 @@ const teamMembers = [
         position: 'Fund Development Coordinator',
         image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Ammar-Syed-Fund-Development-Coordinatornewnew.jpg',
         quote: 'It’s only a crazy dream until you do it!',
+      },
+      {
+        name: 'Muhammad Mauthoor',
+        position: 'Event Coordinator',
+        image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Muhammad-Mauthoor-Event-Coordinatornewnew.jpg',
+        quote: 'Nobody gets left behind!',
       },
     ],
   },
