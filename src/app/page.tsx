@@ -142,7 +142,7 @@ const teamMembers = [
       {
         name: 'Omar Awan',
         position: 'Finance Manager',
-        image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Omar-Awan-Finance-Managernewnew.jpg',
+        image: 'https://pennyappeal.ca/wp-content/uploads/2025/03/omar-pac.png',
         quote: 'Show me the MONEY!',
       },
       {
@@ -188,7 +188,7 @@ const teamMembers = [
       {
         name: 'Thilakshana Senthilvel',
         position: 'Executive Manager - CEO Office',
-        image: 'https://pennyappeal.ca/wp-content/uploads/2022/01/thilakshana.png',
+        image: 'https://pennyappeal.ca/wp-content/uploads/2025/03/ts.jpg',
         quote: 'Kindness is contagious',
       },
       {
