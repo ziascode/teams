@@ -77,22 +77,11 @@ const teamMembers = [
         quote: 'Education is our passport to the future, for tomorrow belongs to those who prepare for it today. - Malcolm X',
       },
       {
-        name: 'Musa Muhammad',
-        position: 'Programs Manager',
-        image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Musa-Muhammad-Programs-Managernewnewnew.jpg',
-        quote: 'Up up and away!',
-      },
-      {
         name: 'Saba Durrani',
         position: 'Grants Manager',
         image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Saba-Durrani-Grants-Managernewnewnew.jpg',
       },
-      {
-        name: 'Jenan Ghaly',
-        position: 'Program Support Officer',
-        image: 'https://pennyappeal.ca/wp-content/uploads/2024/03/Jenan.png',
-        quote: 'Never trust atoms; they make up everything',
-      },
+     
       {
         name: 'Nimco Mohamed',
         position: 'Community Social Development Officer',
@@ -128,12 +117,7 @@ const teamMembers = [
         image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Firaz-Khan-Programs-Communications-Specialistnewnew.jpg',
         quote: 'Designing like there\'s no ctrl+z',
       },
-      {
-        name: 'Mariam Hoda',
-        position: 'Graphic Designer',
-        image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Mariam-Hoda-Graphic-Designernewnew.jpg',
-        quote: 'It\'s all good',
-      },
+     
     ],
   },
   {
@@ -180,6 +164,12 @@ const teamMembers = [
         image: 'https://pennyappeal.ca/wp-content/uploads/2024/09/Untitled-design-3.png',
         quote: 'It’s only a crazy dream until you do it!',
       },
+      {
+        name: 'Maya Helal',
+        position: 'Donor Care Specialist',
+        image: 'https://pennyappeal.ca/wp-content/uploads/2025/06/Maya-Site.png',
+        quote: 'It’s only a crazy dream until you do it!',
+      },
     ],
   },
   {
@@ -209,12 +199,7 @@ const teamMembers = [
   {
     category: 'Development',
     members: [
-      {
-        name: 'Shadi Sakr',
-        position: 'Senior Manager of Special Projects and Strategic Relationships',
-        image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Shadi-Sakr-Senior-Manager-of-Special-Projects-and-Strategic-Relationshipsnewnewnew.jpg',
-        quote: 'Kindness is contagious',
-      },
+     
       {
         name: 'Zubair Abid',
         position: 'Regional Manager - British Columbia',
@@ -233,12 +218,7 @@ const teamMembers = [
         image: 'https://pennyappeal.ca/wp-content/uploads/2020/10/Penny-Appeal-Staff-Illustrations_Mark.png',
         quote: 'It’s only a crazy dream until you do it!',
       },
-      {
-        name: 'Ayah Farhan',
-        position: 'National Community Engagement Officer',
-        image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Ayah-Farhan-National-Community-Engagement-Officernewnew.jpg',
-        quote: 'It’s only a crazy dream until you do it!',
-      },
+    
       {
         name: 'Ammar Syed',
         position: 'Fund Development Coordinator',
@@ -247,8 +227,14 @@ const teamMembers = [
       },
       {
         name: 'Muhammad Mauthoor',
-        position: 'Event Coordinator',
+        position: 'Influencer Relations & Partnerships Manager',
         image: 'https://pennyappeal.ca/wp-content/uploads/2025/02/Muhammad-Mauthoor-Event-Coordinatornewnew.jpg',
+        quote: 'Nobody gets left behind!',
+      },
+      {
+        name: 'Malak Gandhi',
+        position: 'Events Coordinator',
+        image: 'https://pennyappeal.ca/wp-content/uploads/2025/06/pac-team-template-malak.png',
         quote: 'Nobody gets left behind!',
       },
     ],
