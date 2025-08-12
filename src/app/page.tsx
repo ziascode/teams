@@ -51,7 +51,7 @@ const teamMembers = [
         position: "Director of Finance",
         email: "reead.rahamut@pennyappeal.ca",
         image:
-          "https://pennyappeal.ca/wp-content/uploads/2025/02/Reead-Rahamut-Director-of-Financenewnewnew.jpg",
+          "https://pennyappeal.ca/wp-content/uploads/2025/08/Untitled-design-3.png",
         quote: "Welcome to the Wild West!",
       },
       {
@@ -82,7 +82,7 @@ const teamMembers = [
       },
       {
         name: "Saba Durrani",
-        position: "Grants Manager",
+        position: "Programs Manager",
         image:
           "https://pennyappeal.ca/wp-content/uploads/2025/02/Saba-Durrani-Grants-Managernewnewnew.jpg",
       },
@@ -134,18 +134,12 @@ const teamMembers = [
     members: [
       {
         name: "Bakul Gandhi",
-        position: "Staff Accountant",
+        position: "Accountant",
         image:
           "https://pennyappeal.ca/wp-content/uploads/2025/02/Bakul-Gandhi-Staff-Accountantnewnew.jpg",
         quote: "Accounting is my bread, music is my butter",
       },
-      {
-        name: "Jhon Bueron",
-        position: "Accounting Officer",
-        image:
-          "https://pennyappeal.ca/wp-content/uploads/2025/02/Jhon-Bueron-Accounting-Officernewnew.jpg",
-        quote: "Accounting is my bread, music is my butter",
-      },
+     
     ],
   },
   {
@@ -192,7 +186,7 @@ const teamMembers = [
       },
       {
         name: "Rayan Hilal",
-        position: "Office Administrator",
+        position: "Operations Manager",
         image:
           "https://pennyappeal.ca/wp-content/uploads/2024/05/rayan-hilal.png",
         quote: "Let's do this!",
@@ -236,28 +230,28 @@ const teamMembers = [
         image:
           "https://pennyappeal.ca/wp-content/uploads/2025/07/Mustafa-Hassan-Edited-V2.jpg",
       },
-      {
-        name: "Mark Strong",
-        position: "Community Ambassador",
-        image:
-          "https://pennyappeal.ca/wp-content/uploads/2020/10/Penny-Appeal-Staff-Illustrations_Mark.png",
-        quote: "It’s only a crazy dream until you do it!",
-      },
-
-      {
-        name: "Ammar Syed",
-        position: "Fund Development Coordinator",
-        image:
-          "https://pennyappeal.ca/wp-content/uploads/2025/02/Ammar-Syed-Fund-Development-Coordinatornewnew.jpg",
-        quote: "It’s only a crazy dream until you do it!",
-      },
-      {
+       {
         name: "Muhammad Mauthoor",
         position: "Influencer Relations & Partnerships Manager",
         image:
           "https://pennyappeal.ca/wp-content/uploads/2025/02/Muhammad-Mauthoor-Event-Coordinatornewnew.jpg",
         quote: "Nobody gets left behind!",
       },
+      {
+        name: "Mark Strong",
+        position: "Community Engagement Manager",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2020/10/Penny-Appeal-Staff-Illustrations_Mark.png",
+        quote: "It’s only a crazy dream until you do it!",
+      },
+      {
+        name: "Ammar Syed",
+        position: "Area Manager - Ontario",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2025/02/Ammar-Syed-Fund-Development-Coordinatornewnew.jpg",
+        quote: "It’s only a crazy dream until you do it!",
+      },
+     
       {
         name: "Malak Gandhi",
         position: "Events Coordinator",
