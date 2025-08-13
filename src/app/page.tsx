@@ -163,7 +163,7 @@ const teamMembers = [
         name: "Fabiha Tarannum",
         position: "Donor Care Specialist",
         image:
-          "https://pennyappeal.ca/wp-content/uploads/2024/09/Untitled-design-3.png",
+          "https://pennyappeal.ca/wp-content/uploads/2025/08/Untitled-design-32.png",
         quote: "It’s only a crazy dream until you do it!",
       },
       {
@@ -195,7 +195,7 @@ const teamMembers = [
         name: "Jasmeet Kaur",
         position: "Operations and IT Coordinator",
         image:
-          "https://pennyappeal.ca/wp-content/uploads/2024/11/Untitled-design-22.png",
+          "https://pennyappeal.ca/wp-content/uploads/2025/08/Untitled-design-31.png",
         quote: "It’s only a crazy dream until you do it!",
       },
     ],
