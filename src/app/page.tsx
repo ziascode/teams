@@ -43,7 +43,7 @@ const teamMembers = [
         position: "Director of Programs",
         email: "rabea.soofi@pennyappeal.ca",
         image:
-          "https://pennyappeal.ca/wp-content/uploads/2025/02/Rabea-Soofi-Director-of-Programsnewnew.jpg",
+          "https://pennyappeal.ca/wp-content/uploads/2025/10/IMG_2363.jpg",
         quote: "Don’t take life too seriously",
       },
       {
@@ -76,7 +76,7 @@ const teamMembers = [
         name: "Ahmad Hamad",
         position: "Programs Manager",
         image:
-          "https://pennyappeal.ca/wp-content/uploads/2025/02/Ahmad-Hamad-Programs-Managernewnew.jpg",
+          "https://pennyappeal.ca/wp-content/uploads/2025/10/Penny-Appeal-Staff-Illustrations_Ahmad-Hamad.png",
         quote:
           "Education is our passport to the future, for tomorrow belongs to those who prepare for it today. - Malcolm X",
       },
@@ -127,6 +127,13 @@ const teamMembers = [
           "https://pennyappeal.ca/wp-content/uploads/2025/02/Firaz-Khan-Programs-Communications-Specialistnewnew.jpg",
         quote: "Designing like there's no ctrl+z",
       },
+       {
+        name: "Jasmeet Kaur",
+        position: "Web Developer",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2025/08/Untitled-design-31.png",
+        quote: "It’s only a crazy dream until you do it!",
+      },
     ],
   },
   {
@@ -163,7 +170,7 @@ const teamMembers = [
         name: "Fabiha Tarannum",
         position: "Donor Care Specialist",
         image:
-          "https://pennyappeal.ca/wp-content/uploads/2024/09/Untitled-design-3.png",
+          "https://pennyappeal.ca/wp-content/uploads/2025/08/Untitled-design-32.png",
         quote: "It’s only a crazy dream until you do it!",
       },
       {
@@ -173,17 +180,26 @@ const teamMembers = [
           "https://pennyappeal.ca/wp-content/uploads/2025/06/Maya-Site.png",
         quote: "It’s only a crazy dream until you do it!",
       },
+      {
+        name: "Amtul Raheem",
+        position: "Donor Care Specialist",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2025/10/Penny-Appeal-Staff-Illustrations_Amtul-Raheem.png",
+        quote: "It’s only a crazy dream until you do it!",
+      },
+      {
+        name: "Dawoud Fayyaz",
+        position: "Donor Care Specialist",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2025/10/Untitled-design-39.png",
+        quote: "It’s only a crazy dream until you do it!",
+      },
     ],
   },
   {
     category: "Operations",
     members: [
-      {
-        name: "Thilakshana Senthilvel",
-        position: "Executive Manager - CEO Office",
-        image: "https://pennyappeal.ca/wp-content/uploads/2025/03/ts.jpg",
-        quote: "Kindness is contagious",
-      },
+     
       {
         name: "Rayan Hilal",
         position: "Operations Manager",
@@ -191,13 +207,7 @@ const teamMembers = [
           "https://pennyappeal.ca/wp-content/uploads/2024/05/rayan-hilal.png",
         quote: "Let's do this!",
       },
-      {
-        name: "Jasmeet Kaur",
-        position: "Operations and IT Coordinator",
-        image:
-          "https://pennyappeal.ca/wp-content/uploads/2024/11/Untitled-design-22.png",
-        quote: "It’s only a crazy dream until you do it!",
-      },
+     
     ],
   },
 
@@ -224,12 +234,7 @@ const teamMembers = [
         image:
           "https://pennyappeal.ca/wp-content/uploads/2025/07/pac-team-template-Hassan.png",
       },
-      {
-        name: "Mustafa Hassan",
-        position: "National Business Development Manager",
-        image:
-          "https://pennyappeal.ca/wp-content/uploads/2025/07/Mustafa-Hassan-Edited-V2.jpg",
-      },
+     
        {
         name: "Muhammad Mauthoor",
         position: "Influencer Relations & Partnerships Manager",
