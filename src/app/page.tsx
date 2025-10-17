@@ -76,7 +76,7 @@ const teamMembers = [
         name: "Ahmad Hamad",
         position: "Programs Manager",
         image:
-          "https://pennyappeal.ca/wp-content/uploads/2025/02/Ahmad-Hamad-Programs-Managernewnew.jpg",
+          "https://pennyappeal.ca/wp-content/uploads/2025/10/Penny-Appeal-Staff-Illustrations_Ahmad-Hamad.png",
         quote:
           "Education is our passport to the future, for tomorrow belongs to those who prepare for it today. - Malcolm X",
       },
