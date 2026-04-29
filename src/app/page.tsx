@@ -61,6 +61,8 @@ const teamMembers = [
       },{
         name: "Ahmad Hamad",
         position: "Interim Director of Programs",
+                email: "ahmad.hamad@pennyappeal.ca",
+
         image:
           "https://pennyappeal.ca/wp-content/uploads/2025/10/Penny-Appeal-Staff-Illustrations_Ahmad-Hamad.png",
         quote:
@@ -118,6 +120,11 @@ const teamMembers = [
         image:
           "https://pennyappeal.ca/wp-content/uploads/2025/08/Untitled-design-31.png",
         quote: "It’s only a crazy dream until you do it!",
+      },{
+        name: "Sumit Yadav",
+        position: "Marketing and Communication Specialist",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2026/04/pac-team-template_Sumit.png",
       },
     ],
   },
@@ -130,6 +137,11 @@ const teamMembers = [
         image:
           "https://pennyappeal.ca/wp-content/uploads/2025/02/Bakul-Gandhi-Staff-Accountantnewnew.jpg",
         quote: "Accounting is my bread, music is my butter",
+      },{
+        name: "Ananya Mahey",
+        position: "Accounting Assistant",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2026/04/pac-team-template_Ananya.png",
       },
      
     ],
@@ -192,6 +204,12 @@ const teamMembers = [
           "https://pennyappeal.ca/wp-content/uploads/2024/05/rayan-hilal.png",
         quote: "Let's do this!",
       },
+      {
+        name: "Shamniz Valdez",
+        position: "Executive Assistant",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2026/04/pac-team-template_Shamniz.png",
+      },
      
     ],
   },
@@ -218,6 +236,12 @@ const teamMembers = [
         position: "Regional Manager - Ontario",
         image:
           "https://pennyappeal.ca/wp-content/uploads/2025/07/pac-team-template-Hassan.png",
+      },
+      {
+        name: "Mohsin Khan",
+        position: "Senior FD Specialist - British Columbia",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2026/01/Penny-Appeal-Staff-Illustrations_Mohsin-Khan.png",
       },
      
        {
