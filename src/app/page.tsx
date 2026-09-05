@@ -48,7 +48,7 @@ const teamMembers = [
       },
       {
         name: "Owais Hikmat",
-        position: "Director of Development (Interim Director of Marketing)",
+        position: "Director of Development",
         email: "owais.hikmat@pennyappeal.ca",
         image: "https://pennyappeal.ca/wp-content/uploads/2025/02/owais.jpg",
         quote: "Outside of your comfort zone is where magic happens.",
@@ -81,13 +81,13 @@ const teamMembers = [
           "https://pennyappeal.ca/wp-content/uploads/2026/08/Nimco-PNG.png",
         quote: "Think outside the box",
       },
-      // {
-      //   name: "Jimmy Aung",
-      //   position: "Program Advisor",
-      //   image:
-      //     "https://pennyappeal.ca/wp-content/uploads/2026/08/Nimco-PNG.png",
-      //   quote: "Think outside the box",
-      // }, 
+      {
+        name: "Jimmy Aung",
+        position: "Program Advisor",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2026/09/Untitled-design.jpg",
+        quote: "Think outside the box",
+      }, 
       {
         name: "Jenan Ghaly",
         position: "Programs Support Officer",
