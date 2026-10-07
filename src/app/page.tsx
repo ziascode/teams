@@ -102,7 +102,7 @@ const teamMembers = [
     members: [
       {
         name: "Umber Bhatti",
-        position: "Marketing Manager",
+        position: "Senior Marketing Manager",
         image:
           "https://pennyappeal.ca/wp-content/uploads/2026/08/Umber-PNG.png",
         quote: "I like to have fun, but I don’t play games",
@@ -145,12 +145,6 @@ const teamMembers = [
     category: "Finance",
     members: [
       {
-        name: "Bakul Gandhi",
-        position: "Accountant",
-        image:
-          "https://pennyappeal.ca/wp-content/uploads/2026/08/Bakul-PNG.png",
-        quote: "Accounting is my bread, music is my butter",
-      },{
         name: "Ananya Mahey",
         position: "Accounting Assistant",
         image:
