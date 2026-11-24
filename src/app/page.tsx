@@ -140,7 +140,7 @@ const teamMembers = [
           "https://pennyappeal.ca/wp-content/uploads/2026/08/Sahar-PNG.png",
       },
       {
-        name: "Bernice Askary",
+        name: "Bernice Heng",
         position: "Marketing Coordinator",
         image:
           "https://pennyappeal.ca/wp-content/uploads/2026/11/Bernice-Heng_PNG.png",
